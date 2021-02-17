@@ -93,7 +93,7 @@ class Financials extends Component {
                     {" "}
                   &nbsp;&nbsp;Yes&nbsp;
                   <GoArrowRight className="yesarrow" />
-                  &nbsp;
+                  &nbsp;         
                 </button>
                 </div>
               </div>
